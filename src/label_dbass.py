@@ -1,5 +1,5 @@
 """
-Extract only de novo events from DBASS data set, excluding cryptic and pseudoexon events.
+Label events as de novo (i.e. exon extension/truncation), cryptic, pseudoexon, or unclear.
 """
 
 __author__ = 'bernie'
